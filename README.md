@@ -1,2 +1,2 @@
-# demo_Api_Jwt
-# demo_Api_Jwt
+Symfony 4 Api for a Blog application  Backend.
+uses JWT for authentication with api framework 
